@@ -23,10 +23,10 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['info@simranmobile.com', 'support@simranmobile.com'],
+      details: ['info@jaiswalmobile.com', 'support@jaiswalmobile.com'],
       action: {
         label: 'Send Email',
-        href: 'mailto:info@simranmobile.com',
+        href: 'mailto:info@jaiswalmobile.com',
       },
     },
     {
@@ -99,7 +99,7 @@ const Contact = () => {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Simran Mobile Location"
+                title="Jaiswal Mobile Location"
               />
             </div>
 
